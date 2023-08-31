@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Daniel Badra</h1>
 <h3 align="center">Full Stack Developer from Brazil</h3>
 
-- Currently working on [Elumini IT](https://elumini.enter.jobs/)
+- Currently working at [Elumini IT](https://elumini.enter.jobs/)
 
 - Looking to collaborate on **Open Source Projects (:**
 
