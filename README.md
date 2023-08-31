@@ -5,7 +5,7 @@
 
 - Looking to collaborate on **Open Source Projects.**
 
-- My Portfolio: [https://danbadra.github.io/.](https://danbadra.github.io/.)
+- My Portfolio (in progress): [https://danbadra.github.io/.](https://danbadra.github.io/.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
