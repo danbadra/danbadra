@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, welcome to my github!</h1>
 <h3 align="center">Full Stack Developer from Brazil</h3>
 
-- Currently working @ [Elumini IT.](https://elumini.enter.jobs/)
+🛠️ Currently working @ [Elumini IT.](https://elumini.enter.jobs/)
 
-- Looking to collaborate on **Open Source Projects.**
+🌎 Looking to collaborate on **Open Source Projects.**
 
-- My Portfolio (in progress): [https://danbadra.github.io/.](https://danbadra.github.io/.)
+📙 My Portfolio (in progress): [https://danbadra.github.io/.](https://danbadra.github.io/.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
