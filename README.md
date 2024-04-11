@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, welcome to my github!</h1>
 <h3 align="center">Full Stack Developer from Brazil</h3>
 
-🛠️ Currently working @ [Elumini IT.](https://elumini.enter.jobs/)
+🛠️ Currently working as a Full Stack Developer @ [Elumini IT.](https://elumini.enter.jobs/)
 
 🌎 Looking to collaborate on **Open Source Projects.**
 
